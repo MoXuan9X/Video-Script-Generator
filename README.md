@@ -1,1 +1,1 @@
-# Video_Script_Generator
+# Video-Script-Generator
